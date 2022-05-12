@@ -1,0 +1,434 @@
+
+.logo { 
+    position: absolute;   
+    margin-right: 500px;
+    top : 15px ;
+    left : 70px ;
+}
+.container-fluid {  
+    position: absolute ; 
+    top: 110px;
+} 
+
+.member{
+    position: absolute;
+    right: 99px;
+    top: 16px;
+}
+
+.logout{
+    position: absolute;
+    right: 30px;
+    top: 15px;
+}
+.like{  
+    position: absolute;
+    top: 90px;
+    left :1300px;
+    margin-right: 50px;
+}
+.cart { 
+   position: absolute;
+   top: 90px;
+   left : 1390px;
+}
+
+.menu1 { 
+    position: absolute;
+    color : black ;
+    font-size: 26px;
+    left : 100px;
+    top: 185px ;
+    text-align: center; 
+    text-decoration: none; 
+}
+
+.menu2 { 
+    position: absolute;
+    color : black ;
+    font-size: 26px;
+    left : 350px;
+    top: 185px ;
+    text-align: center; 
+    text-decoration: none; 
+}
+
+.menu3 { 
+    position: absolute;
+    color : black ;
+    font-size: 26px;
+    left : 630px;
+    top: 185px ;
+    text-align: center; 
+    text-decoration: none; 
+}
+
+.menu4 { 
+    position: absolute;
+    color : black ;
+    font-size: 26px;
+    left : 1050px;
+    top: 185px ;
+    text-align: center; 
+    text-decoration: none; 
+}
+
+.menu5 { 
+    position: absolute;
+    color : black ;
+    font-size: 26px;
+    left : 1350px;
+    top: 185px ;
+    text-align: center; 
+    text-decoration: none; 
+}
+
+.advert1 {
+    position: absolute;
+    top: 240px;
+    left: 5px ;
+}
+
+.advert2 {
+    position: absolute;
+    top: 240px;
+    left: 747px ;
+}
+
+.menu1s { 
+    position: absolute;
+    color : #f7b51e ;
+    font-size: 26px;
+    left : 100px;
+    top: 185px ;
+    text-align: center; 
+    text-decoration: none; 
+}
+
+.menu2s { 
+    position: absolute;
+    color : #f7b51e ;
+    font-size: 26px;
+    left : 350px;
+    top: 185px ;
+    text-align: center; 
+    text-decoration: none; 
+}
+
+.menu3s { 
+    position: absolute;
+    color : #f7b51e ;
+    font-size: 26px;
+    left : 630px;
+    top: 185px ;
+    text-align: center; 
+    text-decoration: none; 
+}
+
+.menu4s { 
+    position: absolute;
+    color : #f7b51e ;
+    font-size: 26px;
+    left : 1050px;
+    top: 185px ;
+    text-align: center; 
+    text-decoration: none; 
+}
+
+.menu5s { 
+    position: absolute;
+    color : #f7b51e ;
+    font-size: 26px;
+    left : 1350px;
+    top: 185px ;
+    text-align: center; 
+    text-decoration: none; 
+}
+
+
+.product {
+    display: block;
+    position: absolute ; 
+    color:black;
+    text-decoration: none;
+    font-size: 24px;
+    top: 250px;
+    left: 20px;
+}
+
+.video { 
+    position: absolute;    
+    top: 280px;
+    left: 570px;
+}
+
+.producttest {
+    display: block;
+    position: absolute;   
+    color:black;
+    text-decoration: none;
+    font-size: 22px;
+    top: 280px;
+    left: 150px;
+}
+
+.note {
+    display: inline-block;
+    position: absolute;   
+    font-size: 24px;
+    top: 485px;
+    left: 4.0%;
+}
+
+.ordernum {
+    position: relative;   
+    top: 280px;
+    right: 510px;
+
+}
+
+.box {
+    position: absolute;
+    top: 270px;
+    left: 585px;
+}
+
+.ordernump3{
+    position: relative;
+    top :240px;
+    left : -25px;
+}
+
+.contact { 
+    position: absolute;   
+    top: 280px ;
+    left: 500px;
+}
+
+.contact2 { 
+    position: absolute;   
+    top: 370px ;
+    left: 400px;
+}
+
+.box2 {
+    position: absolute;   
+    top: 450px;
+    left: 400px;
+}
+
+.underline {
+    position: absolute;   
+    top: 460px;
+    left: 475px;
+    text-decoration: none;
+    display: inline-block; 
+    text-align: center; 
+    font-size : 30px; 
+    color : black;
+}
+
+.phone {
+    position: absolute;   
+    top: 460px;
+    left: 840px;
+}
+
+.tel{
+    position: absolute;   
+    top: 455px;
+    left: 910px;
+    font-size : 38px; 
+    color : black;
+}
+
+.line { 
+    position: absolute;   
+    top: 530px;
+    left: 470px;
+}
+
+.id { 
+    position: absolute;   
+    top: 550px;
+    left: 600px;
+    font-size: 42px;
+}
+
+.order1 {
+    display: block;
+    position: absolute ; 
+    color:black;
+    text-decoration: none;
+    font-size: 22px;
+    top: 580px;
+    left: 15%;
+    margin-right: 150px ;
+    background-color:#F5BA53;
+}
+
+.order2 { 
+    display: block;
+    position: absolute ; 
+    color:black;
+    text-decoration: none;
+    font-size: 22px;
+    top: 580px;
+    left: 35%;
+    margin-right: 150px ;
+    background-color:#D9D9D9;
+}
+
+.order3 { 
+    display: block;
+    position: absolute ; 
+    color:black;
+    text-decoration: none;
+    font-size: 22px;
+    top: 580px;
+    left: 55%;
+    margin-right: 150px ;
+    background-color:#D9D9D9;
+}
+
+.order4 { 
+    display: block;
+    position: absolute ; 
+    color:black;
+    text-decoration: none;
+    font-size: 22px;
+    top: 580px;
+    left: 75%;
+    margin-right: 150px ;
+    background-color:#D9D9D9;
+    
+}
+
+.picorder1 { 
+    position: absolute;   
+    top: 425px;
+    left: 195px;
+}
+
+.picorder2 { 
+    position: absolute;   
+    top: 425px;
+    left: 495px;
+}
+
+.picorder3 { 
+    position: absolute;   
+    top: 435px;
+    left: 815px;
+}
+
+.picorder4 { 
+    position: absolute;   
+    top: 435px;
+    left: 1115px;
+}
+
+.sum {
+    position: absolute;   
+    top: 280px;
+    left: 50px;
+}
+
+.form {
+    position: absolute;
+    top: 285px;
+    left: 280px;
+    font-size: 16px;
+}
+
+.butsub{
+    position: absolute;
+    top: 975px;
+    left: 280px;
+}
+
+.mower-container{
+    position: absolute;
+    left: 300px;
+    top: 250px;
+}
+
+.sbrand {
+    position: relative;
+    font-weight: bold;
+    top: -25px;
+    left:10px;
+    font-size: 18px;
+}
+
+.smodel{
+    position: relative;
+    top: -25px;
+    left:15px;
+    font-size: 15px;
+}
+
+.sprice {
+    position: relative;
+    font-weight: bold;
+    top: -25px;
+    left:10px;
+    font-size: 20px;
+}
+
+.insert-basket{
+    position: relative;
+    top: -75px;
+    left: 170px;
+}
+
+#shopping-cart{
+    margin-top: 180px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#shopping-cart tr{
+    background-color: white;
+}
+#btnEmpty{
+    background-color: #d00000;
+    border: black 1px solid;
+    padding: 7px 10px;
+    color: white;
+    text-decoration: none;
+    border-radius:3px;
+    margin: 10px 0px;
+    cursor: pointer;
+}
+
+.empty{
+    position: absolute;
+    right: 50px;
+    top: 90px;
+}
+
+.no-records{
+    text-align: center;
+    clear: both;
+    margin: 40px 0;
+    color: red;
+}
+
+.product-quantity{
+    position: relative;
+    top: -43px;
+    left: 100px;
+    text-align: center;
+}
+
+.txt-heading{
+    text-align: center;
+    background-color: lightgray;
+    height: 25px;
+}
+
+#contact{
+    margin-left: 50px;
+    margin-right: 50px;
+}
